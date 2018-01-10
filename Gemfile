@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 gem "redis", "~> 3.0" 
 gem 'mysql2', '0.3.21'
+gem 'pg'
